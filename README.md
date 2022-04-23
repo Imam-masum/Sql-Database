@@ -1,2 +1,2 @@
 # Sql-Database
-This database based on metro rail management system and so on.
+This database maintain relational database on Metro-Rail management system. store-procedure, triggers, Functions, View, try-catch, Use Transaction these are include in this project.
